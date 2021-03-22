@@ -1,0 +1,1 @@
+Calıstırmak icin dosya dizininde docker-compose up komutunu çalıştırınız.
